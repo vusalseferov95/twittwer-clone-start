@@ -1,0 +1,103 @@
+.icon {
+    width: 22px;
+    height: 22px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-sm {
+    width: 18px;
+    height: 18px;
+}
+
+.icon-home {
+    background-image: url('../icons/home.png');
+}
+
+.icon-bookmark {
+    background-image: url('../icons/Bookmarks.png');
+}
+
+.icon-explore {
+    background-image: url('../icons/explore.png');
+}
+
+.icon-list {
+    background-image: url('../icons/Lists.png');
+}
+
+.icon-message {
+    background-image: url('../icons/Messages.png');
+}
+
+.icon-more {
+    background-image: url('../icons/More.png');
+}
+
+.icon-notification {
+    background-image: url('../icons/Notifications.png');
+}
+
+.icon-user {
+    background-image: url('../icons/Profile.png');
+}
+
+.icon-ellipse-v {
+    background-image: url('../icons/Group.png');
+}
+
+.icon-timeline {
+    background-image: url('../icons/Timeline-Prop.png');
+}
+
+.icon-emoji {
+    background-image: url('../icons/Emoji.png');
+}
+
+.icon-gif {
+    background-image: url('../icons/Gif.png');
+}
+
+.icon-media {
+    background-image: url('../icons/Media.png');
+}
+
+.icon-poll {
+    background-image: url('../icons/Poll.png');
+}
+
+.icon-schedule {
+    background-image: url('../icons/Schedule.png');
+}
+
+.icon-verified {
+    background-image: url('../icons/ok-Verified.png');
+}
+
+.icon-react {
+    background-image: url('../icons/React.png');
+}
+
+.icon-reply {
+    background-image: url('../icons/Reply.png');
+}
+
+.icon-retweet {
+    background-image: url('../icons/Retweet.png');
+}
+
+.icon-share {
+    background-image: url('../icons/Share.png');
+}
+
+.icon-search {
+    background-image: url('../icons/Search.png');
+}
+
+.icon-settings {
+    background-image: url('../icons/settings.svg');
+}
